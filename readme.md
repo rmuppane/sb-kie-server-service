@@ -1,6 +1,7 @@
 Business Application Initial Content
 ====================================
 
+Basic example of KIE Server SpringBoot application.
 
 Step 1: Checkout and build (mvn clean install) the below project.
 https://github.com/rmuppane/work-flow
